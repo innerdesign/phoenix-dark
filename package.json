@@ -1,0 +1,22 @@
+{
+    "name": "phoenix-dark",
+    "displayName": "Phœnix Dark",
+    "description": "Theme with a minimal color palette, focused on values: all value types have the same vivid color, while the colors for keywords / control characters / ponctuation etc. are muted. Optimised to work with the lit-html extension (js in html in js...).",
+    "version": "0.0.1",
+    "publisher": "joseroux",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Phœnix Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Phœnix-Dark-color-theme.json"
+            }
+        ]
+    }
+}
