@@ -2,6 +2,8 @@
 
 ## VS Code theme with a minimal color palette, focused on values 
 
+Successor of the 'simple-focus' theme, with a more uniform color palette.
+
 - All value types have the same vivid color;
 - Colors for keywords / control characters / ponctuation etc. are muted;
 - Optimised to work with the lit-html extension (js in html in js...).

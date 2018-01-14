@@ -2,7 +2,7 @@
     "name": "phoenix-dark",
     "displayName": "Phœnix Dark",
     "description": "Theme focused on values, with all types colored with the same vivid color.",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "publisher": "joseroux",
     "engines": {
         "vscode": "^1.19.0"

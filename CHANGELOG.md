@@ -3,5 +3,5 @@
 ## [Unreleased]
 - will check / fine-tune for more languages
 
-## [0.2.2]
+## [0.2.3]
 - Initial release: js, pug and stylus
