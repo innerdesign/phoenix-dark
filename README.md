@@ -11,7 +11,7 @@
 
 ### Javascript / HTML (lit-html)
 
-almost there: note the deepest div is not correctly highlighted as HTML, but as a normal string. Not sure whether this depends on lit-html extension or the language services... Hopefully this will be adressed soon!
+Almost there: note the deepest div is not correctly highlighted as HTML, but as a normal string. Not sure whether this depends on lit-html extension or the language services... Hopefully this will be adressed soon!
 
 ![js html demo](./screenshots/js2.png)
 
