@@ -5,6 +5,6 @@
 - colors for keywords / control characters / ponctuation etc. are muted. 
 - Optimised to work with the lit-html extension (js in html in js...).
 
-![js demo](./js.png)
-![pug demo](./js.png)
-![stylus demo](./js.png)
+![js demo](./screenshots/js.png)
+![pug demo](./screenshots/pug.png)
+![stylus demo](./screenshots/stylus.png)
