@@ -10,19 +10,16 @@ Successor of the 'simple-focus' theme, with a more uniform color palette.
 
 HTML colors are different / contrasting with JS colors so when both languages are mixed in string template literals they are clearly distinct.
 
-### Javascript
-![js demo](./screenshots/js1.png)
+### Javascript, Javascript + HTML (lit-html)
 
-### Javascript / HTML (lit-html)
+![js demo](./screenshots/javascript.png)
 
-Almost there: note the deepest div is not correctly highlighted as HTML, but as a normal string. Not sure whether this depends on lit-html extension or the language services... Hopefully this will be adressed soon!
+Almost there: note that in the last example the deepest div is not correctly highlighted as HTML, but as a normal string. Not sure whether this depends on the lit-html extension or the language services... Hopefully this should be adressed soon!
 
-![js html demo](./screenshots/js2.png)
-
-### Pug
+### Pug (screenshot to come)
 
 ![pug demo](./screenshots/pug.png)
 
-### Stylus
+### Stylus (screenshot to come)
 
 ![stylus demo](./screenshots/stylus.png)
