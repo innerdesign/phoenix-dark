@@ -8,6 +8,8 @@ Successor of the 'simple-focus' theme, with a more uniform color palette.
 - Colors for keywords / control characters / ponctuation etc. are muted;
 - Optimised to work with the lit-html extension (js in html in js...).
 
+HTML colors are different / contrasting with JS colors so when both languages are mixed in string template literals they are clearly distinct.
+
 ### Javascript
 ![js demo](./screenshots/js1.png)
 
