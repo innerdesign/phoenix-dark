@@ -13,7 +13,7 @@
 
 almost there: note the deepest div is not correctly highlighted as HTML, but as a normal string. Not sure whether this depends on lit-html extension or the language services... Hopefully this will be adressed soon!
 
-![js demo](./screenshots/js1.png)
+![js html demo](./screenshots/js2.png)
 
 ### Pug
 
