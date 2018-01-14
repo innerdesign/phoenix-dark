@@ -18,5 +18,11 @@
                 "path": "./themes/Phœnix-Dark-color-theme.json"
             }
         ]
-    }
+    },
+    "homepage": "https://github.com/innerdesign/phoenix-dark/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/innerdesign/phoenix-dark.git"
+    },
+    "icon": "./icon.png"
 }
