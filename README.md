@@ -6,6 +6,7 @@
 - Optimised to work with the lit-html extension (js in html in js...).
 
 ### javascript
+almost there: note the deepest div is not correctly highlighted as HTML, but as a normal string. Not sure whether this depends on lit-html extension or the language services... Hopefully this will be adressed soon!
 ![js demo](./screenshots/js.png)
 ### pug
 ![pug demo](./screenshots/pug.png)
