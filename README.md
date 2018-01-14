@@ -6,3 +6,5 @@
 - Optimised to work with the lit-html extension (js in html in js...).
 
 ![js demo](./js.png)
+![pug demo](./js.png)
+![stylus demo](./js.png)
