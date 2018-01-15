@@ -18,10 +18,10 @@ Almost there: note that in the last example the deepest div is not correctly hig
 
 ### HTML / PUG
 
-![pug demo](./screenshots/html.png)
+![html screenshot](./screenshots/html.png)
 
-![pug demo](./screenshots/pug.png)
+![pug screenshot](./screenshots/pug.png)
 
-### CSS / Stylus
+### CSS
 
-![stylus demo](./screenshots/css.png)
+![css screenshot](./screenshots/css.png)
