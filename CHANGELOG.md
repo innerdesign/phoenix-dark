@@ -1,5 +1,10 @@
 # Change Log
 
+
+## [0.5.0]
+- [Changed] Adjusted HTML and CSS colors (inc. pug/stylus)
+- [Changed] New screenshots
+
 ## [0.4.0]
 - [Added] Specified colors for selection / find match
 - [Changed] HTML attribute color (yellow) less saturated

@@ -38,7 +38,8 @@
 		},
 		{
 			"scope": [
-				"punctuation.accessor"
+				"punctuation.accessor",
+				"entity.name.function.keyframe.stylus"
 			],
 			"settings": {
 				"foreground": "#fff"
@@ -46,7 +47,7 @@
 		},
 		{
 			"scope": [
-				"punctuation.section.function.css",
+				"punctuation.section.function",
 				"meta.brace.round.js",
 				"punctuation.definition.parameters.begin.js",
 				"punctuation.definition.parameters.end.js",
@@ -142,21 +143,34 @@
 		},
 		{
 			"scope": [
-				"entity.name.tag.css",
-				"support.function.mixin.stylus"
+				"punctuation.section.property-list.begin.bracket.curly.css",
+				"punctuation.section.property-list.end.bracket.curly.css",
+				"punctuation.section.keyframes",
+				"meta.brace.curly.css"
 			],
 			"settings": {
-				"foreground": "#B5DE62"
-			}
-		},
-		{
-			"scope": "entity.other.attribute-name",
-			"settings": {
-				"foreground": "#d3db8a"
+				"foreground": "#707065"
 			}
 		},
 		{
 			"scope": [
+				"support.function.mixin.stylus"
+			],
+			"settings": {
+				"foreground": "#C1B572"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.tag.css"
+			],
+			"settings": {
+				"foreground": "#a9ac81"
+			}
+		},
+		{
+			"scope": [
+				
 				"entity.other.attribute-name.class.css",
 				"entity.other.attribute-name.class.mixin.css",
 				"entity.other.attribute-name.id.css",
@@ -168,7 +182,18 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#F5F067"
+				"foreground": "#DCE081"
+			}
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name",
+				"entity.other.keyframe-offset.percentage",
+				"keyword.control.at-rule.keyframes",
+				"meta.at-rule.keyframes"
+			],
+			"settings": {
+				"foreground": "#DCE081"
 			}
 		},
 		{
@@ -356,10 +381,12 @@
 				"variable.css",
 				"variable.scss",
 				"variable.other.less",
-				"source.coffee.embedded"
+				"source.coffee.embedded",
+				"punctuation.separator.key-value.css",
+				"punctuation.terminator.rule.css"
 			],
 			"settings": {
-				"foreground": "#C1B572"
+				"foreground": "#749791"
 			}
 		},
 		{
@@ -408,7 +435,7 @@
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#9E9771"
+				"foreground": "#81C6BE"
 			}
 		},
 		{

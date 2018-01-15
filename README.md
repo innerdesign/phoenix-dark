@@ -16,10 +16,12 @@ HTML colors are different / contrasting with JS colors so when both languages ar
 
 Almost there: note that in the last example the deepest div is not correctly highlighted as HTML, but as a normal string. Not sure whether this depends on the lit-html extension or the language services... Hopefully this should be adressed soon!
 
-### Pug (screenshot to come)
+### HTML / PUG
+
+![pug demo](./screenshots/html.png)
 
 ![pug demo](./screenshots/pug.png)
 
 ### Stylus (screenshot to come)
 
-![stylus demo](./screenshots/stylus.png)
+![stylus demo](./screenshots/css.png)
