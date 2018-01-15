@@ -22,6 +22,6 @@ Almost there: note that in the last example the deepest div is not correctly hig
 
 ![pug demo](./screenshots/pug.png)
 
-### Stylus (screenshot to come)
+### CSS / Stylus
 
 ![stylus demo](./screenshots/css.png)
