@@ -1,4 +1,9 @@
-# Phœnix Dark
+
+
+# ~~Phœnix Dark~~ 
+## There's a newer (BETTER!) version:
+- Extension: https://marketplace.visualstudio.com/items?itemName=ncodefun.simple-focus-web
+- Repo: https://github.com/ncodefun/simple-focus-web
 
 ## VS Code theme with a minimal color palette, focused on values 
 
